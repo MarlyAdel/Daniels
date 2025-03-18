@@ -1,0 +1,227 @@
+  
+  /* ^ Navbar & Portfolio Animation */
+
+@keyframes line {
+    0% {
+        width: 0%;
+    }
+
+    10% {
+        width: 10%;
+    }
+
+    20% {
+        width: 20%;
+    }
+
+    30% {
+        width: 3ch;
+    }
+
+    40% {
+        width: 40%;
+    }
+
+    50% {
+        width: 50%;
+    }
+
+    60% {
+        width: 60%;
+    }
+
+    70% {
+        width: 70%;
+    }
+
+    80% {
+        width: 80%;
+    }
+}
+
+    /* ^ Animation Responsive for the Navbar */
+
+@media (max-width: 991px){
+    @keyframes line {
+            0% {
+                width: 0%;
+            }
+    
+            1% {
+                width: 1%;
+            }
+    
+            2% {
+                width: 2%;
+            }
+    
+            3% {
+                width: 3%;
+            }
+    
+            4% {
+                width: 4%;
+            }
+    
+            5% {
+                width: 5%;
+            }
+    
+            6% {
+                width: 6%;
+            }
+    
+            7% {
+                width: 7%;
+            }
+    
+            8% {
+                width: 8%;
+            }
+    
+            9% {
+                width: 9%;
+            }
+    
+            10% {
+                width: 10%;
+            }
+        }
+}
+
+
+/* ^ Home Animation */
+
+@keyframes words {
+
+    0% {
+        content: "  |";
+    }
+
+    3% {
+        content: " D|";
+    }
+
+    5% {
+        content: " De|";
+    }
+
+    7% {
+        content: " Dev|";
+    }
+
+    10% {
+        content: " Deve|";
+    }
+
+    13% {
+        content: " Devel|";
+    }
+
+    16% {
+        content: " Develo|"
+    }
+
+    19% {
+        content: " Develop|";
+    }
+
+    22% {
+        content: " Develope|";
+    }
+
+    25% {
+        content: " Developer|";
+    }
+
+    28% {
+        content: " |";
+    }
+
+    31% {
+        content: " D|";
+    }
+
+    34% {
+        content: " De|";
+    }
+
+    37% {
+        content: " Des|";
+    }
+
+    40% {
+        content: " Desi|";
+    }
+
+    43% {
+        content: " Desig|";
+    }
+
+    46% {
+        content: " Design|";
+    }
+
+    49% {
+        content: " Designe|";
+    }
+
+    52% {
+        content: " Designer|",
+    }
+    55% {
+        content: " |";
+    }
+    58% {
+        content: " L|";
+    }
+
+    61% {
+        content: " La|";
+    }
+
+    64% {
+        content: " Lar|";
+    }
+
+    67% {
+        content: " Larr|";
+    }
+
+    70% {
+        content: " Larry|";
+    }
+
+    73% {
+        content: " Larry |";
+    }
+
+    76% {
+        content: " Larry D|";
+    }
+
+    79% {
+        content: " Larry Da|";
+    }
+
+    82% {
+        content: " Larry Dan|";
+    }
+
+    85% {
+        content: " Larry Dani|";
+    }
+
+    88% {
+        content: " Larry Danie|";
+    }
+
+    95% {
+        content: " Larry Daniel|";
+    }
+
+    100% {
+        content: " Larry Daniels|";
+    }
+
+}
